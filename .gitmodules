@@ -1,0 +1,9 @@
+[submodule "rule-based"]
+	path = rule-based
+	url = https://github.com/SHASHANK-SAMALA/CodeSoft-AI-TASK1.git
+[submodule "tic-tac-toe"]
+	path = tic-tac-toe
+	url = https://github.com/SHASHANK-SAMALA/CodeSoft-AI-TASK2.git
+[submodule "facedetection"]
+	path = facedetection
+	url = https://github.com/SHASHANK-SAMALA/CodeSoft-AI-TASK5.git
